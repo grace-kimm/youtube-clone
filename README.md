@@ -1,3 +1,7 @@
+## What's this
+* clone youtube using JS, MongoDB, AWS
+* for studying frontend development
+
 ## URL
 ```
 / -> home
