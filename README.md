@@ -1,5 +1,5 @@
 ## URL
-
+```
 / -> home
 /join
 /login
@@ -14,3 +14,10 @@
 /videos/:id/edit
 /videos/:id/delete
 /videos/upload
+```
+
+## How to Use
+1. `npm i`
+2. `npm run dev`
+3. connect to `http://localhost:4000/`
+
