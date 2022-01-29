@@ -4,4 +4,4 @@
 .DS_Store
 /assets
 /build
-.package-lock.json
+/package-lock.json
