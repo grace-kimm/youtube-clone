@@ -2,7 +2,7 @@
 * clone youtube using JS, MongoDB, AWS
 * for studying frontend development
 
-## URL
+## URL structure
 ```
 / -> home
 /join
@@ -24,4 +24,3 @@
 1. `npm i`
 2. `npm run dev`
 3. connect to `http://localhost:4000/`
-
